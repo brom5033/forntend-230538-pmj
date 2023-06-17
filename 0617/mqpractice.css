@@ -1,0 +1,13 @@
+
+/* 미디어 쿼리를 사용하여 
+최대너비가 1024px 일 때 bg1이라는 이미지가
+
+최대너비가 768px 일 때 bg2이라는 이미지가
+
+최대너비가 320px 일 때 bg3이라는 이미지가 출력되도록 작성 */
+
+@media screen and (max-width:1024px){
+
+  background:url (..) no-repeat fixed;
+  background-size: cover;
+}

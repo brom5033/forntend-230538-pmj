@@ -1,0 +1,29 @@
+div {
+  border: 1px solid black;
+}
+
+.head {
+  background-color: black;
+  color:white;
+}
+
+.bb {
+  font-size: xx-small;
+}
+
+h2 {
+  color: #ff0000;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+p {
+  font-size: 1.2em;
+  font-weight: bolder;
+  text-align: center;
+
+}
+
+.accent {
+  color: #0000ff;
+}

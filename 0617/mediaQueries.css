@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* 무조건 0으로 먼저 설정하기 */
+
+}
+
+body {
+  background-color: aquamarine;
+}
+
+#container {
+  width: 1140px;
+  margin: 50px auto;
+  /* margin 가운데설정 */
+}
+
+#card {
+  position: relative;
+  float: left; /*카드를 가로로배치*/
+  width: 500px;
+  height: 250px;
+  margin: 10px;
+  border: 1px solid #0f0f0f33;
+  background-color: white;
+}
+
+.words {
+  position: absolute;
+  left: 310px;
+  top: 50px;
+  text
+}
