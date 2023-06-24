@@ -38,7 +38,7 @@ background-color: yellow;
 }
 
 #advice_h {
-  margin: 0 auto;
+  /* margin: 0 auto; */
   width: 1200px;
   height: 260px;
   background-color: brown;
